@@ -95,7 +95,7 @@ export default class About extends React.PureComponent {
               <div>
                 <p className={styles.registerSubheading}>Full Weekend TANG options: </p>
                 <p>
-                  For more information about each program, please check out our <a href="http://tangeneration.org/programs/">Program</a> page.
+                  For more information about each program, please check out our <a href="http://tangeneration.org/programs/" target="_blank">Program</a> page.
                 </p>
                 <ul style={{listStyle: 'none'}}>
                   <li style={{marginTop: 14}}>

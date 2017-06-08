@@ -298,12 +298,12 @@ const OTDProgramData = Object.freeze({
             {
               title: {
                 en: 'Digital marketing for grassroots organization',
-                zh: '草根組織網路行銷',
+                zh: '透過社群網路讓非同溫層變成同溫層:自媒體X公民運動',
               },
               time: '16:00 - 16:50',
               speakers: {
-                en: 'Hsin Hsiao',
-                zh: '蕭新晟',
+                en: 'Zu Yi Lin',
+                zh: '林祖儀',
               },
               description: {
                 en: 'Organizers often hope to promote our visions to target audiences and push them to take actions such as donation, petition, reposting articles, and participating an event. Thus, good marketing is the key to successful activism. This panel will discuss how to improve the reachability and conversion rates through the online technologies such as social network sites and landing pages.',

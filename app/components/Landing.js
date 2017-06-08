@@ -75,12 +75,9 @@ export default class Landing extends React.Component {
               </Col>
             </Row>
             <Row>
-              <a href={regForm} target="_blank">
-                <Button color="primary" className={styles.OTDButton} style={{fontSize: 15}}>{LandingData.downloadPaperForm[lang]}</Button>
-              </a>
-              <a href="https://tang.regfox.com/tacec-tang-conference-wotd-2017" target="_blank">
+              <Link to="/register">
                 <Button color="primary" className={styles.OTDButton} style={{fontSize: 15}}>{LandingData.registerOnline[lang]}</Button>
-              </a>
+              </Link>
             </Row>
         </Container>
         {viewPortWidth < 700 && (

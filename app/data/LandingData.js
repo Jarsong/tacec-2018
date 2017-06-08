@@ -82,8 +82,8 @@ const LandingData = Object.freeze({
     zh: "下載報名表格",
   },
   registerOnline: {
-    en: "Register Online",
-    zh: "線上報名",
+    en: "Registration Details",
+    zh: "報名詳情",
   },
   deadlines: {
     en:
