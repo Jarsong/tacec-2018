@@ -122,7 +122,7 @@ const OTDProgramData = Object.freeze({
   projectList: {
     buttonText: {
       en: "Hackfoldr",
-      zh: "黑客松Hackfoldr",
+      zh: "黑客松 Hackfoldr",
     },
     link: "https://beta.hackfoldr.org/otd-hackathon",
   },
