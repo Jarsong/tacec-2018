@@ -1430,7 +1430,7 @@ const TACECData = Object.freeze(
       "Room": "",
       "Moderator": "黃信治",
       "Speaker 1": "王威中",
-      "Speaker 2": "吳佩憶",
+      "Speaker 2": "吳沛憶",
       "Speaker 3": "",
       "Speaker 4": "",
       "Speaker 5": "",
