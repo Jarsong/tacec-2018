@@ -229,7 +229,7 @@ const TACECData = Object.freeze(
       "Topic": "開幕式",
       "Room": "",
       "Moderator": "林楷夫",
-      "Speaker 1": "簡明子召集人",
+      "Speaker 1": "美東台灣人夏令會理事長",
       "Speaker 2": "",
       "Speaker 3": "",
       "Speaker 4": "",

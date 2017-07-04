@@ -9,7 +9,7 @@ import Col from 'muicss/lib/react/col';
 import { Link } from 'react-router';
 import styles from '../styles.css';
 import programImg from '../images/03_Program2_03.png';
-import schedule from '../images/schedule.docx';
+import handbook from '../images/handbook.pdf';
 import programData from '../data/programdata';
 import { toAbsPath } from '../utils'
 
@@ -135,7 +135,7 @@ export default class Schedule extends React.Component {
 	          <Col md="10" md-offset="1">
               <div style={{height: 850, overflow: 'scroll'}}>
                  <p className={styles.bodyTextAbout}>
-                   For the most updated schedule please <a href={schedule} target="_blank"> click here </a>
+                   For the most updated information please download the <a href={handbook} target="_blank"> Program Handbook </a>
                  </p>
                  <h3 className={styles.contactHeading}>{lang === 'en' ? 'Schedule' : '節目表' }</h3>
 	               <p className={styles.bodyTextAbout}>
