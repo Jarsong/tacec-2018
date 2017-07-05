@@ -623,14 +623,230 @@ li {
   background: url('./data/speaker-profile/Chiu.jpg') no-repeat center center;
 }
 
-.speakerImgChong {
+.speakerImgYaoCW {
   composes: speakerImg;
-  background: url('./data/speaker-profile/Chong.jpg') no-repeat center center;
+  background: url('./data/speaker-profile/YaoCW.jpg') no-repeat center center;
+}
+
+.speakerImgYanMW {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/YanMW.jpg') no-repeat center center;
+}
+
+/* OTD speakers */
+.speakerImgYangYT {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/YangYT.jpg') no-repeat center center;
+}
+
+.speakerImgYangYH {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/YangYH.jpg') no-repeat center center;
+}
+
+.speakerImgWuPY {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/WuPY.jpg') no-repeat center center;
+}
+
+.speakerImgWuHH {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/WuHH.jpg') no-repeat center center;
+}
+
+.speakerImgWangWC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/WangWC.jpeg') no-repeat center center;
+}
+
+.speakerImgWangCZ {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/WangCZ.jpg') no-repeat center center;
+}
+
+.speakerImgTsaoHY {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/TsaoHY.jpeg') no-repeat center center;
+}
+
+.speakerImgTsaiWN {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/TsaiWN.jpg') no-repeat center center;
+}
+
+.speakerImgTsaiMF {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/TsaiMF.jpg') no-repeat center center;
+}
+
+.speakerImgTsaiDK {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/TsaiDK.jpg') no-repeat center center;
+}
+
+.speakerImgTangF {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/TangF.jpg') no-repeat center center;
+}
+
+.speakerImgPengYC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/PengYC.jpg') no-repeat center center;
+}
+
+.speakerImgOuyang {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/Ouyang.jpg') no-repeat center center;
+}
+
+
+/* more */
+.speakerImgMichaelF {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/MichaelF.jpg') no-repeat center center;
+}
+
+.speakerImgLoHC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LoHC.jpg') no-repeat center center;
+}
+
+.speakerImgLiuYB {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LiuYB.jpg') no-repeat center center;
+}
+
+.speakerImgLinYC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LinYC.png') no-repeat center center;
+}
+
+.speakerImgLinWC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LinWC.jpg') no-repeat center center;
+}
+
+.speakerImgLinHMH {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LinHMH.jpg') no-repeat center center;
+}
+
+.speakerImgLiHC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LiHC.jpg') no-repeat center center;
+}
+
+.speakerImgLamC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LamC.jpg') no-repeat center center;
+}
+
+.speakerImgLaiCC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LaiCC.jpg') no-repeat center center;
+}
+
+.speakerImgJohnNJ {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/JohnNJ.jpg') no-repeat center center;
+}
+
+.speakerImgHuangYH {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/HuangYH.jpg') no-repeat center center;
+}
+
+.speakerImgHuangMY {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/HuangMY.jpg') no-repeat center center;
+}
+
+.speakerImgHuangCS {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/HuangCS.jpg') no-repeat center center;
+}
+
+/* more */
+
+.speakerImgHsuHC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/HsuHC.jpg') no-repeat center center;
+}
+
+.speakerImgHsiehBL {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/HsiehBL.png') no-repeat center center;
+}
+
+.speakerImgHsiaoR {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/HsiaoR.jpg') no-repeat center center;
+}
+
+.speakerImgHongCL {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/HongCL.jpg') no-repeat center center;
+}
+
+.speakerImgGvdW {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/GvdW.jpg') no-repeat center center;
+}
+
+.speakerImgChoCJ {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/ChoCJ.jpg') no-repeat center center;
+}
+
+.speakerImgChiuTP {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/ChiuTP.jpg') no-repeat center center;
+}
+
+.speakerImgChenYS {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/ChenYS.jpg') no-repeat center center;
+}
+
+.speakerImgChenTS {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/ChenTS.jpg') no-repeat center center;
+}
+
+.speakerImgChangCH {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LiuYB.jpg') no-repeat center center;
+}
+
+/* last batch */
+.speakerImgLiMC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LiMC.jpg') no-repeat center center;
+}
+
+.speakerImgLinZY {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LinZY.jpg') no-repeat center center;
+}
+
+.speakerImgLuHC {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/LuHC.jpg') no-repeat center center;
+}
+
+.speakerImgChiangN {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/ChiangN.jpg') no-repeat center center;
 }
 
 .speakerImgChen {
   composes: speakerImg;
   background: url('./data/speaker-profile/Chen.jpg') no-repeat center center;
+}
+
+.speakerImgChong {
+  composes: speakerImg;
+  background: url('./data/speaker-profile/Chong.jpg') no-repeat center center;
 }
 
 .speakerInfo {
