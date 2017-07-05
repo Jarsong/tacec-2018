@@ -815,7 +815,7 @@ li {
 
 .speakerImgChangCH {
   composes: speakerImg;
-  background: url('./data/speaker-profile/LiuYB.jpg') no-repeat center center;
+  background: url('./data/speaker-profile/ChangCH.jpg') no-repeat center center;
 }
 
 /* last batch */
