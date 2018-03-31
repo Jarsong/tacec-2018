@@ -33,8 +33,8 @@ export default class Landing extends React.Component {
         <div className={styles.landingHero}>
           {
             viewPortWidth < 600 ?
-              (<a href="https://tang.regfox.com/tacec-tang-conference-wotd-2017" target="_blank"><img src={heroImgSmall} alt="TACEC 2017 main image" className={styles.landingHeroImg}/></a>) :
-              (<a href="https://tang.regfox.com/tacec-tang-conference-wotd-2017" target="_blank"><img src={heroImg} alt="TACEC 2017 main image" className={styles.landingHeroImg}/></a>)
+              (<a href="https://tang.regfox.com/tacec-tang-registration-2018" target="_blank"><img src={heroImgSmall} alt="TACEC 2018 main image" className={styles.landingHeroImg}/></a>) :
+              (<a href="https://tang.regfox.com/tacec-tang-registration-2018" target="_blank"><img src={heroImg} alt="TACEC 2018 main image" className={styles.landingHeroImg}/></a>)
           }
         </div>
         <Container className={styles.landingBody}>
@@ -51,22 +51,17 @@ export default class Landing extends React.Component {
                   </div>
                 </Link>
                 <a href='http://tangeneration.org/programs/' target='_blank'>
-                  <div className={styles.homepageBox} style={isMobile ? {borderBottom: 'none'} : {borderRight: 'none'}}>
+                  <div className={styles.homepageBox} style={isMobile ? {borderBottom: 'none'} : {borderRight: 'yes'}}>
                     <h3 className={styles.hpBoxHeading}>TANG CONFERENCE</h3>
                     <p className={styles.hpViewMore}> {LandingData.viewMore[lang]} </p>
                     <img src={dotImg} style={{marginTop: -33}}/>
                   </div>
                 </a>
-                <Link to={toAbsPath(langPath, "otd")}>
-                  <div className={styles.homepageBox}>
-                    <h3 className={styles.hpBoxHeading}>OTD<br/>SUMMIT</h3>
-                    <p className={styles.hpViewMore}> {LandingData.viewMore[lang]} </p>
-                    <img src={dotImg} style={{marginTop: -33}}/>
-                  </div>
-                </Link>
+                
               </div>
 	           </Col>
             </Row>
+            
             <Row>
               <Col md="4" md-offset="4">
                 <div className={styles.bodyTextAbout} style={{textAlign: 'center', marginTop: 90}}>
