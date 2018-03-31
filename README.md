@@ -1,4 +1,4 @@
-# 2017 TACEC-TANG-OTD Landing Page
+# 2018 TACEC-TANG Landing Page
 
 
 ## To set up and contribute
