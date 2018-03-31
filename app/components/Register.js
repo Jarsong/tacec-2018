@@ -25,7 +25,7 @@ export default class About extends React.PureComponent {
               <div>
                 <p className={styles.registerSubheading}>How to register online: </p>
                 <p>We highly recoomend registering online! We'll be able to process your registration much faster,
-                  and you'll be much more likely to be guaranteed a spot. Click <a href="https://tang.regfox.com/tacec-tang-conference-wotd-2017" target="_blank"> here </a> to register online
+                  and you'll be much more likely to be guaranteed a spot. Click <a href="https://tang.regfox.com/tacec-tang-registration-2018" target="_blank"> here </a> to register online
                 </p>
                 <ul>
                   <li style={{marginTop: 14}}>Early bird online deadline: Mon, May 15</li>
@@ -46,7 +46,7 @@ export default class About extends React.PureComponent {
                   <li style={{marginTop: 14}}>There will be no late registration via paper</li>
                 </ul>
               </div>
-              <h3 className={styles.heading}> 2017 RATES </h3>
+              <h3 className={styles.heading}> 2018 RATES </h3>
               <div className={styles.headingBottom} />
               <div>
                 <p className={styles.registerSubheading}>Rates include full weekend meals: </p>
@@ -123,21 +123,7 @@ export default class About extends React.PureComponent {
                   <li style={{marginTop: 14}}>Discount only applies to full-weekend attendees</li>
                 </ul>
               </div>
-              <div>
-                <p className={styles.registerSubheading}>Full Weekend OTD options: </p>
-                <p>
-                  For more information about each program, please check out our <Link to="/otd">OTD Program</Link> page.
-                </p>
-                <ul style={{listStyle: 'none'}}>
-                  <li style={{marginTop: 14}}>
-                    <div style={{display: 'flex', color: '#64a680', marginTop: 40}}>
-                      <div style={{paddingTop: 10, paddingLeft: 10, fontWeight: 'bolder', marginRight: 5}}>Regular</div>
-                      <div style={{fontSize: 33, paddingTop: 0, marginRight: 5}}>$190</div>
-                      <div style={{fontSize: 12, paddingTop: 25, color: '#777'}}>(only available to OTD attendees)</div>
-                    </div>
-                  </li>
-                </ul>
-              </div>
+              
               <div>
                 <p className={styles.registerSubheading}>Frequently Asked Questions: </p>
                 <ul>
