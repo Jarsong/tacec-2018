@@ -94,7 +94,7 @@ export default class Frame extends React.Component {
               </Col>
               <Col md="6">
                 <div className={styles.footerDisclaimer}>
-                  © 2017 TACEC.org. All Rights Reserved
+                  © 2018 TACEC.org. All Rights Reserved
                 </div>
               </Col>
             </Row>
